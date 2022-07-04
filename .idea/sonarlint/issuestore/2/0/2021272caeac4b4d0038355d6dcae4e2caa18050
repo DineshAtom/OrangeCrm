@@ -1,0 +1,11 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÖØ^
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Õÿáøÿÿÿÿ
+
+java:S1130,"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(˜‘Æ¡
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(½ÅÎÛüÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(¹°£å
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(Ä§“Ş
+G
+java:S1128",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ

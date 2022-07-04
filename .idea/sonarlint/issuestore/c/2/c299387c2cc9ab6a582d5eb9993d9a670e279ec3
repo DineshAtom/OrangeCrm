@@ -1,0 +1,80 @@
+
+p
+java:S1104"ZMake objUsernameIPF a static final constant or non-public and provide accessors if needed.(ßß³é
+u
+java:S1104	"ZMake objPasswordIPF a static final constant or non-public and provide accessors if needed.(€šÎüÿÿÿÿ
+m
+java:S1104"WMake objLoginCTA a static final constant or non-public and provide accessors if needed.(±İ¾ê
+}
+java:S1104"gMake objSoftwareEngineerCheckbox a static final constant or non-public and provide accessors if needed.(Ø©ğ«
+s
+java:S1104"]Make objRecruitmentTab a static final constant or non-public and provide accessors if needed.(ƒÒú×
+k
+java:S1104"UMake objAddCTA a static final constant or non-public and provide accessors if needed.(¹À‚“
+z
+java:S1104"_Make objAddCanditateForm a static final constant or non-public and provide accessors if needed.(½úáçÿÿÿÿÿ
+q
+java:S1104"[Make objFirstNameIPF a static final constant or non-public and provide accessors if needed.(—–ä¿
+p
+java:S1104"ZMake objLastNameIPF a static final constant or non-public and provide accessors if needed.(Õµ¼
+r
+java:S1104"WMake objEmailIPF a static final constant or non-public and provide accessors if needed.(Â¶áåÿÿÿÿÿ
+v
+java:S1104"aMake objJobVacancyDropDown a static final constant or non-public and provide accessors if needed.(Ğş’^
+t
+java:S1104"^Make objJVDropDownValue a static final constant or non-public and provide accessors if needed.(¾šú«
+z
+java:S1104"_Make objResumeChooseFile a static final constant or non-public and provide accessors if needed.(‰¡“Ñúÿÿÿÿ
+o
+java:S1104!"YMake objCommentIPF a static final constant or non-public and provide accessors if needed.(«­¦°
+l
+java:S1104#"VMake objDateIPF a static final constant or non-public and provide accessors if needed.(¹Ï›®
+k
+java:S1104%"VMake objSaveCTA a static final constant or non-public and provide accessors if needed.(ø˜çI
+y
+java:S1104&"dMake objFadableSuccessMessage a static final constant or non-public and provide accessors if needed.(ÎîÏk
+x
+java:S1104("[Make objDashboardTab a static final constant or non-public and provide accessors if needed.(©Œ 8Ğ§õö0
+~
+java:S1104*"\Make objDashboardPage a static final constant or non-public and provide accessors if needed.(¯ÙÀ·ùÿÿÿÿ8˜àõö0
+J
+java:S1444"4Make this "public static objUsernameIPF" field final(ßß³é
+O
+java:S1444	"4Make this "public static objPasswordIPF" field final(€šÎüÿÿÿÿ
+G
+java:S1444"1Make this "public static objLoginCTA" field final(±İ¾ê
+W
+java:S1444"AMake this "public static objSoftwareEngineerCheckbox" field final(Ø©ğ«
+M
+java:S1444"7Make this "public static objRecruitmentTab" field final(ƒÒú×
+E
+java:S1444"/Make this "public static objAddCTA" field final(¹À‚“
+T
+java:S1444"9Make this "public static objAddCanditateForm" field final(½úáçÿÿÿÿÿ
+K
+java:S1444"5Make this "public static objFirstNameIPF" field final(—–ä¿
+J
+java:S1444"4Make this "public static objLastNameIPF" field final(Õµ¼
+L
+java:S1444"1Make this "public static objEmailIPF" field final(Â¶áåÿÿÿÿÿ
+P
+java:S1444";Make this "public static objJobVacancyDropDown" field final(Ğş’^
+N
+java:S1444"8Make this "public static objJVDropDownValue" field final(¾šú«
+T
+java:S1444"9Make this "public static objResumeChooseFile" field final(‰¡“Ñúÿÿÿÿ
+I
+java:S1444!"3Make this "public static objCommentIPF" field final(«­¦°
+F
+java:S1444#"0Make this "public static objDateIPF" field final(¹Ï›®
+E
+java:S1444%"0Make this "public static objSaveCTA" field final(ø˜çI
+S
+java:S1444&">Make this "public static objFadableSuccessMessage" field final(ÎîÏk
+R
+java:S1444("5Make this "public static objDashboardTab" field final(©Œ 8Ò§õö0
+X
+java:S1444*"6Make this "public static objDashboardPage" field final(¯ÙÀ·ùÿÿÿÿ8šàõö0
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š¢òC
+P
+java:S1118":Add a private constructor to hide the implicit public one.( Â÷
